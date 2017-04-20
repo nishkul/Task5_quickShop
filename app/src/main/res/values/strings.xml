@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Task5</string>
+    <string name="quikdeal">Quickdeal</string>
+    <string name="chats">Chats</string>
+    <string name="electronics">Electronics</string>
+    <string name="services">Services</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="distance_away">%s km away</string>
+    <string name="deal_done">Deal Done ?</string>
+    <string name="not_yet">Not yet</string>
+    <string name="yes">Yes</string>
+    <array name="home_screen_title">
+        <item>Apparel,Textiles &amp; Accessories</item>
+        <item>Auto &amp; Transportation</item>
+        <item>Electronic &amp; Allpicances</item>
+        <item>Hardware &amp;Tools</item>
+    </array>
+
+    <array name="home_screen_icon">
+        <item>@drawable/ic_appareel</item>
+        <item>@drawable/ic_auto</item>
+        <item>@drawable/ic_electronics</item>
+        <item>@drawable/ic_hardware</item>
+    </array>
+
+
+    <array name="category_list">
+        <item>Light &amp; Lightning Products</item>
+        <item>Switches &amp; Switchears</item>
+        <item>Electric Fittings &amp; Components</item>
+        <item>Electric &amp; Electronic Connectors</item>
+        <item>Air Conditioning &amp;Heating Equipment</item>
+        <item>Electrical Cables &amp;Wires</item>
+        <item>Amplifires ,Headphones &amp;Phones</item>
+        <item>Electric Cables &amp;Wires</item>
+
+        <item>Light &amp; Lightning Products</item>
+        <item>Switches &amp; Switchears</item>
+        <item>Electric Fittings &amp; Components</item>
+        <item>Electric &amp; Electronic Connectors</item>
+        <item>Air Conditioning &amp;Heating Equipment</item>
+        <item>Electrical Cables &amp;Wires</item>
+        <item>Amplifires ,Headphones &amp;Phones</item>
+        <item>Electric Cables &amp;Wires</item>
+
+
+    </array>
+
+
+    <array name="services_list">
+        <item>Global Electronics</item>
+        <item>Krishna Lights Junction</item>
+        <item>Patel Electronics</item>
+        <item>Eco Lighting Solution</item>
+        <item>Bombay Electronics</item>
+        <item>Grotal Lights &amp;Products</item>
+        <item>Opera Solutions</item>
+        <item>Oreva Electronics</item>
+    </array>
+
+</resources>
